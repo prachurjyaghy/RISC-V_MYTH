@@ -37,7 +37,6 @@
   *******GET THIS FIX AFTERWARDS
 
 ### Sequential Logic
-
 #### Values in Verilog - move this to theory part
 
   -> Goal: 
@@ -52,6 +51,17 @@
     > Reset $out to zero
     > Copy code to local area if required
   ![image](https://github.com/user-attachments/assets/54671c19-9891-45fb-a609-b5ecc5820a5a)
+
+
+### PIPELINED LOGIC
+#### 2-CYCLE CALCULATOR
+
+
+
+## DAY 4 - BASIC RISC-VCPU MICROARCHITECTURE
+### MIRCO ARCHITECTURE OF SINGLE CYCLE RISC-V CPU
+![image](https://github.com/user-attachments/assets/aa988251-c520-470a-b164-2eec4ac9e163)
+
 
 
       
