@@ -27,6 +27,31 @@
   ![image](https://github.com/user-attachments/assets/0a1dc35c-d0b6-426e-a5e4-6047fca921b9)
 
   -> Similar example for MUX to operate on vector
-  
+  ![image](https://github.com/user-attachments/assets/9bcf6be1-08d5-4069-b130-fd3ba0259115)
+
+#### Combination Calculator
+  -> Implementation of calculator to perform +, -, *, / using two inputs
+  ![image](https://github.com/user-attachments/assets/0fa8b7b1-dd62-45b7-b6fa-2e65539b3be4)
+
+
+  *******GET THIS FIX AFTERWARDS
+
+### Sequential Logic
+
+#### Values in Verilog - move this to theory part
+
+  -> Goal: 
+    > zero-extend or truncate when widths are mismatched
+    > uses 2-state simulation (no X's)
+
+#### Sequential Calculator
+
+  -> Real calculator remembers the last result and uses it for the next level of calculation, therefore we use a flip-flop
+    > Return to the calculator
+    > Update calculatort to perform a new calculation each cycle where $val1[31:0] = result of the previopus calculation
+    > Reset $out to zero
+    > Copy code to local area if required
+  ![image](https://github.com/user-attachments/assets/54671c19-9891-45fb-a609-b5ecc5820a5a)
+
 
       
