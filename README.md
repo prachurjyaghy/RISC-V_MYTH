@@ -22,3 +22,19 @@
 
 #### Maker Chip
 
+
+## RV D4 - Basic RISC-V CPU Micro-architecture
+### Intro to Simple RISC-V Micro-acrchitecture
+
+#### Single Cycle RISC-V CPU
+![image](https://github.com/user-attachments/assets/3fd780d4-7c57-4003-9094-65ac3eca9703)
+     
+     1. R` is the intruct set acritect and not the mirco arch that is implementing thje instruction set
+     2. First the Program Counter is sent to the intruction memory and the output is instruction comes as output
+     The Decode logic is breeak down the source, denst reg and some inst like branch might have immediate value. The branch has an offset value to the PC. And this is goin to the target instruction. The adder is computing the nest PC for brancgh with the offset value and becomes the new PC
+     4. Most instruction are aritechmetic and operation oif source reg. Arrary or mems access one value at time, incase of CPU, need to access 2 source reg at a time
+     5. 2 reg oput put values now will be operated by the ALU as per the compuitatioh( codded as per the previous caluclator wjhoch has memeory from the computations
+     6. The RF write than writes the value from the ALU, which is actually one unit with the RF read
+     7. DMem is a memory which will hold tghe data  from the offset and the address will be created in it for the data to be stored
+     
+
