@@ -20,25 +20,37 @@
     3. The editor section of the selected line number 35
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b96da2d-8c46-405b-bafd-31e0153a783b" />
 
+### Makerchip platform another example with the Pythagorean Example
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a423af4a-88f2-472f-92f2-636c3584ab55" />
+
+    1. CHeck out the basic zoom in/out, panel splitting actions
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7c949d1-9444-4a9a-9a5e-1ab92cf6762a" />
+
+    2. Select the "bb_sq" logic
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52331b3f-f2b1-4d25-a1bb-eab5fc9f027f" />
+
+
+
 
 ### Combo Logic excercises
 #### Inverter
   ![image](https://github.com/user-attachments/assets/489eb2de-df02-43dc-ad99-d597e6358333)
 #### Vectors:
   
-  -> Bit ranges can generally be assumed on the LHS, but with no assignments to the signals, they have to be programmed explicitly
-  -> Example with vector of 5-bits
-     ![image](https://github.com/user-attachments/assets/6f663f0b-b533-4b80-8f2b-2fd061c16632)
+       1. Bit ranges can generally be assumed on the LHS, but with no assignments to the signals, they have to be programmed explicitly
+       2. Example with vector of 5-bits.
+![image](https://github.com/user-attachments/assets/6f663f0b-b533-4b80-8f2b-2fd061c16632)
 
 #### MUX
-  -> The ternary operation is used for MUX creation 
+        1. The ternary operation is used for MUX creation 
   ![image](https://github.com/user-attachments/assets/0a1dc35c-d0b6-426e-a5e4-6047fca921b9)
 
-  -> Similar example for MUX to operate on vector
+        1. Similar example for MUX to operate on vector
   ![image](https://github.com/user-attachments/assets/9bcf6be1-08d5-4069-b130-fd3ba0259115)
 
 #### Combination Calculator
-  -> Implementation of calculator to perform +, -, *, / using two inputs
+
+        1. Implementation of calculator to perform +, -, *, / using two inputs with 32 bit data and 2 bit operational select signal
   ![image](https://github.com/user-attachments/assets/0fa8b7b1-dd62-45b7-b6fa-2e65539b3be4)
 
 
