@@ -1,18 +1,26 @@
 # DAY 3 - LAB EXCERCISES USING TL-VERILOG AND MAKERCHIP
 ## Introduction to Makerchip platform
 
-1. Open the link in any browser https://makerchip.com/
-2. Launch the IDE and go through the various functions and windows
-3. To familiarize, toutorial section can help to understand the tool
+    1. Open the link in any browser https://makerchip.com/
+    2. Launch the IDE and go through the various functions and windows
+    3. To familiarize, toutorial section can help to understand the tool
 ![image](https://github.com/user-attachments/assets/3ddeac0e-c481-40ae-a0fb-ab55930f7b49)
 
-4. Can check verilog code
+    4. Can check verilog code
 ![image](https://github.com/user-attachments/assets/e2737b19-48e8-4db5-95d8-f1cfc5a78d24)
 
 
 ### Basic tutorial with an example:
   ![image](https://github.com/user-attachments/assets/10f55bc6-c14b-4655-9f78-3b52ed32db49)
-  
+   
+    1. Check the Pipeline FPGA Multiplier to get accustomed with how the tool behaves
+    2. If you select any logic in the DIAGRAM section on the right side, we can go and check the highlighted line and if we click on it it will tkae us to the EDITOR section on the left
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34e95ce8-fe3d-46bb-bc18-ec297b071507" />
+    
+    3. The editor section of the selected line number 35
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b96da2d-8c46-405b-bafd-31e0153a783b" />
+
+
 ### Combo Logic excercises
 #### Inverter
   ![image](https://github.com/user-attachments/assets/489eb2de-df02-43dc-ad99-d597e6358333)
